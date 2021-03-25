@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently doing my phd at @unimelb and contribute casually to @GrapheneOS.
+🔭 I’m currently doing my phd at [unimelb](https://unimelb.edu.au) and contribute casually to [GrapheneOS](https://grapheneos.org).
 
 🌱 I’m currently learning about stateful cryptocurrencies.
 

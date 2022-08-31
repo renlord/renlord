@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔨 I work in [cloudflare](https://cloudflare.com)
+🔨 Ex-Cloudflare
 
 📫 How to reach me: me[at]renlord.com
 

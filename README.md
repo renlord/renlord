@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔨 Ex-Cloudflare
+🔨 Systems Reliability Engineer, ex-Cloudflare
 
 📫 How to reach me: me[at]renlord.com
 

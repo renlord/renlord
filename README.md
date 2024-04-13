@@ -1,11 +1,6 @@
 ### Hi there 👋
-
-🔨 Software Engineer at 🍎
-
 📫 How to reach me: me[at]renlord.com
 
 ⚡ Fun fact:
-  - I like 🚴
-  - I run a 🏠 ☁️
-  - I run my own MTA -- katmail.xyz
-  - Btw, I use Arch
+  - I run [AS204710](https://bgp.tools/as/204710#whois) from Home.
+  - I run my own Mailserver -- katmail.xyz
